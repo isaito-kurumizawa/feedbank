@@ -31,7 +31,7 @@
 
 	// FullHeight
 	var fullHeight = function() {
-		$('.js-fullheight').css('background-size', '100% 10%');
+		$('.js-fullheight').css('background-size', '100% 15%');
 		if ( !isiPad() && !isiPhone() ) {
 			$('.js-fullheight').css('height', $(window).height() - 49);
 			$('.js-fullheight').css('background-size', '100% 100%');
