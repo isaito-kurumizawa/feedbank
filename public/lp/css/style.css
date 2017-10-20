@@ -1378,7 +1378,7 @@ body {
 }
 
 .row-bottom-padded-md {
-  padding-bottom: 0em;
+  padding-bottom: 2em;
 }
 @media screen and (max-width: 768px) {
   .row-bottom-padded-md {
